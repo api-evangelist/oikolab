@@ -39,7 +39,6 @@ apis:
   - name: Oikolab
     description: "70+ years of global, hourly historical and forecast weather data from NOAA and ECMWF"
     humanURL: https://docs.oikolab.com
-    baseURL: https://docs.oikolab.com
     tags:
       - Weather
     properties:
